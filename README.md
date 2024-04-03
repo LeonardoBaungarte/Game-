@@ -3,7 +3,7 @@ O objetivo do jogo é não deixar os monstros chegarem perto de você!
 Se o monstro chegar perto, você perde!
 
 Istruções do jogo:
-Use as teclas de seta para se movimentar
+Use as teclas de seta para se movimentar.
 Use o botão esquerdo do mouse para atirar
 
 
